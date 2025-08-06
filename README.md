@@ -3,10 +3,8 @@ Chief executive vibe coder for distributed managerial analytical technologies an
 Former prompt injector for safety-critical system software relating to national security.
 
 ## My Languages
-- English
-- Spanish
-- French
-- American (Up-and-coming English framework with types)
+- Perl
+- University of Waterloo Fortran
 
 ## Skills
 - Exiting Vim
