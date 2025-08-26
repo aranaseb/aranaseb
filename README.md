@@ -1,5 +1,8 @@
 ## Experience
-
+- Education in progress (year 3)
 ## Languages
-
-## Skills
+- Python
+- Java
+- Perl
+## Specialization
+- Natural Language Processing
