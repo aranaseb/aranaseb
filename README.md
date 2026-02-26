@@ -3,6 +3,7 @@
 ## Languages
 - Python
 - Java
-- Perl
 ## Specialization
 - Natural Language Processing
+- Web Scraping
+- Data Visualization
