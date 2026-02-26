@@ -2,7 +2,7 @@
 - Education in progress (year 3)
 ## Languages
 - Python
-- Java
+- Javascript
 ## Specialization
 - Natural Language Processing
 - Web Scraping
