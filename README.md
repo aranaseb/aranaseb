@@ -1,9 +1,9 @@
 ## Experience
-- Education in progress (year 3)
+- Education in progress (BS year 3, MS year 1)
 ## Languages
 - Python
 - Javascript
 ## Specialization
 - Natural Language Processing
 - Web Scraping
-- Data Visualization
+- Data Mininng
