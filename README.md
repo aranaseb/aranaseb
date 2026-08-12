@@ -8,4 +8,4 @@
 - Natural Language Processing
 - Web Scraping
 - Data Visualization
-- Semiconductor Fabrication
+- Advanced Semiconductor Packaging
